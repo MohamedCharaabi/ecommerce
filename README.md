@@ -1,4 +1,4 @@
-# chito_shopping
+# Shop Now
 
 A new Flutter application.
 
